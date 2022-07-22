@@ -5,6 +5,9 @@ public class github2 {
                 int b=200;
         System.out.println(a);
         System.out.println(b);
+        System.out.println(b+a);
+        System.out.println(b-a);
+
 
 
     }
